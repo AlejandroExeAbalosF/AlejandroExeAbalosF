@@ -5,6 +5,8 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 ## Lenguajes/Frameworks
 <p>
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=React" />
+  <img src="[https://img.shields.io/badge/-React-45b8d8?logo=React](https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white
+)" />
 </p>
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
