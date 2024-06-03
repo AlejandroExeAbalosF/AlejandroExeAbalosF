@@ -12,7 +12,8 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2523231F20?logo=postgresql&logoColor=white&color=blue">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
-
+<br>
+<img alt="next.js" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
 
 
 
