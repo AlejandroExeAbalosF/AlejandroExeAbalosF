@@ -4,17 +4,20 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 
 ## Lenguajes/Frameworks
 <p>
-  <img src="https://img.shields.io/badge/-React-45b8d8?logo=React" />
+ 
   <img src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=green">
-<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=JavaScript&logoColor=black">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2523231F20?logo=postgresql&logoColor=white&color=blue">
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
-<br>
-<img alt="next.js" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
-
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=JavaScript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2523231F20?logo=postgresql&logoColor=white&color=blue">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
+  <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?logo=swagger&logoColor=white" />
+  
+  <br>
+   <img src="https://img.shields.io/badge/-React-45b8d8?logo=React" />
+  <img alt="next.js" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
 
 
 </p>
