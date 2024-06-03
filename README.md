@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Un poso sobre mi:</h1>
-<h4>Soy Alejandro Abalos Flores, de Salta, Argentina <img src="https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000" width="18"/></h4>
+<h4>Soy Alejandro Abalos Flores, de Salta, Argentina <img src="https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000" width="15"/></h4>
   
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
