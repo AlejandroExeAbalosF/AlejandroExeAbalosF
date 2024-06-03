@@ -10,6 +10,9 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=JavaScript&logoColor=black">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%2523231F20?logo=postgresql&logoColor=white&color=blue">
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
+
 
 
 
