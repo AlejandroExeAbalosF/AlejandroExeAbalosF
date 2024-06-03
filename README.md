@@ -25,7 +25,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-<p><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></p>
+<p><img alt="NestJs" src="https://img.shields.io/badge/-NestJs-#E0234E?style=flat-square&logo=react&logoColor=white" /></p>
 
 
 <br/>  
