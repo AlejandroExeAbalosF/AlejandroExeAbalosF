@@ -6,7 +6,12 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 <p>
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=React" />
   <img src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=Express&logoColor=green">
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=JavaScript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white">
+<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat&logo=nestjs&logoColor=white">
+
+
 
 </p>
 
