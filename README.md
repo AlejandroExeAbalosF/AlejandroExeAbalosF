@@ -22,8 +22,9 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 
 
 </p>
-
-
+<br/>  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroExeAbalosF&layout=compact&langs_count=8&theme=algolia"/>
+<br/>  
 ## Contáctame
 <div align="center">
 <!-- <a href="https://github.com/rishavanand" target="_blank">
@@ -43,7 +44,7 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 </a>   -->
 </div>  
 <br>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroExeAbalosF&layout=compact&langs_count=8&theme=algolia"/>
+
   
 
 <br/>  
