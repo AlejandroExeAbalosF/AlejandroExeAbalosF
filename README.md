@@ -2,7 +2,7 @@
 <p>Soy Alejandro Abalos Flores, de Salta, Argentina <img src="https://img.icons8.com/?size=100&id=aFEiFfDodGwe&format=png&color=000000" width="14"/>, desde joven cuando comenzó mi etapa videojueguil, siempre me atrajo este sector, entre idas y vueltas de la vida logre adaptarme y capacitarme en mantenimiento y reparación de equipo informático, técnico en análisis de sistema, desarrollo web , siendo unos de los primeros escenario a superar. Logrando principalmente ser Full-Stack Developer con una ligera preferencia del lado del Back-end, deseoso de seguir aprendiendo y de seguir superando desafíos. <br/>
 Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</p>
 
-## Lenguajes/Frameworks
+## Lenguajes/Frameworks y mas...
 <p>
  
   <img src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
