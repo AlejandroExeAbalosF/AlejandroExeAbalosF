@@ -42,6 +42,8 @@ Cualquier propuesta o consulta puedes contactarme en: alejandroexe96@gmail.com</
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>   -->
 </div>  
+<br>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlejandroExeAbalosF&layout=compact&langs_count=8&theme=algolia"/>
   
 
 <br/>  
